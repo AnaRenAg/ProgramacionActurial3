@@ -1,0 +1,37 @@
+---
+title: "Calificaciones Ana"
+author: "Ana Rendon Aguilar"
+date: "3/2/2017"
+output: html_document
+---
+
+## Calificaciones 
+### Oto??o 2015
+  Asignatura | Calificaciones 
+  ----- | -----
+  Programacion Actuarial | 10 
+  Introduccion a la Profesion Acturial | 09
+  DHPC | 09 
+  Conceptos de Calculo | 08
+  Matematicas Basicas | 06 
+  Problemas de Matematicas Basicas | 06 
+
+### Primavera 2016 
+  Asignatura | Calificaciones 
+  ----- | -----
+  Programacion Acturial II | 07
+  Teoria del Interes I | 07
+  Microeconomia | 08 
+  Formacion Humana y Social | 09
+  Calculo Diferencial | 07 
+  Teoria de Ecuaciones | 05
+  
+### Oto??o 2016
+  Asignatura | Calificaciones 
+  ----- | -----
+  Teoria del Interes II | 06 
+  Contabilidad General | 08 
+  Macroeconomia | 06 
+  Calculo Integral | 05 
+  Teoria de Ecuaciones | 08 
+  
